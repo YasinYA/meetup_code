@@ -1,2 +1,2 @@
-# meetup_code
+# Meet up code
 We push our meet up code
